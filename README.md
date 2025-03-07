@@ -22,7 +22,7 @@ Therefore, understanding the relationship between inventory levels, waiting time
 The questions to be asked for this analysis as follows:
 -- Total User Transaction Amount
 
--- Average User Purchase Frequeny
+-- Average User Purchase Frequency
 
 -- Total Waiting Time
 
